@@ -41,7 +41,7 @@
 
     //NAVBAR
     .navbar {
-      border: 1px solid;
+      width: 1024px;
       .container {
         display: flex;
         justify-content: space-between;
@@ -51,7 +51,7 @@
           align-items: center;
           .logo {
             display: flex;
-            gap: 10px;
+            gap: 20px;
   
             img {
               width: 60px;
@@ -74,7 +74,7 @@
         .end {
           display: flex;
           align-items: center;
-          gap: 10px;
+          gap: 20px;
           span {
             font-size: 22px;
           }
